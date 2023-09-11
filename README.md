@@ -81,5 +81,3 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasg217&" alt="vishwasg217" /></p>
