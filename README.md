@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atif Ghogha</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
 
-- 🔭 My latest projects: **[Drawable based security system](https://github.com/Atif1727/Pic-Twin-Analyzer.git), [stock Price prediction and forecasting](https://github.com/Atif1727/Stock_price_pridiction.git)**
-
 - 🌱 I’m currently learning **Deep learning, MLOps**
 
 - 💪 Currently Working at [**Kusho**](https://www.linkedin.com/company/kusho/)
